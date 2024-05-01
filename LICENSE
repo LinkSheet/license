@@ -1,5 +1,5 @@
-Mozilla Public License Version 2.0
-==================================
+LinkSheet Public License Version 1.0, based on Mozilla Public License Version 2.0
+=================================================================================
 
 1. Definitions
 --------------
@@ -88,18 +88,11 @@ Mozilla Public License Version 2.0
 
 2.1. Grants
 
-Each Contributor hereby grants You a world-wide, royalty-free,
-non-exclusive license:
-
-(a) under intellectual property rights (other than patent or trademark)
-    Licensable by such Contributor to use, reproduce, make available,
-    modify, display, perform, distribute, and otherwise exploit its
-    Contributions, either on an unmodified basis, with Modifications, or
-    as part of a Larger Work; and
-
-(b) under Patent Claims of such Contributor to make, use, sell, offer
-    for sale, have made, import, and otherwise transfer either its
-    Contributions or its Contributor Version.
+Each Contributor hereby grants You a world-wide, royalty-free, non-exclusive
+license under intellectual property rights (other than patent or trademark)
+Licensable by such Contributor to use, reproduce, make available, modify,
+display, perform,distribute, and otherwise exploit its Contributions, either
+on an unmodified basis, with Modifications, or as part of a Larger Work.
 
 2.2. Effective Date
 
@@ -355,9 +348,9 @@ notice described in Exhibit B of this License must be attached.
 Exhibit A - Source Code Form License Notice
 -------------------------------------------
 
-  This Source Code Form is subject to the terms of the Mozilla Public
-  License, v. 2.0. If a copy of the MPL was not distributed with this
-  file, You can obtain one at http://mozilla.org/MPL/2.0/.
+  This Source Code Form is subject to the terms of the LinkSheet Public
+  License, v. 1.0. If a copy of the LPL was not distributed with this
+  file, You can obtain one at https://github.com/LinkSheet/license.
 
 If it is not possible or desirable to put the notice in a particular
 file, then You may include the notice in a location (such as a LICENSE
@@ -370,4 +363,4 @@ Exhibit B - "Incompatible With Secondary Licenses" Notice
 ---------------------------------------------------------
 
   This Source Code Form is "Incompatible With Secondary Licenses", as
-  defined by the Mozilla Public License, v. 2.0.
+  defined by the LinkSheet Public License, v. 1.0.
